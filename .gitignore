@@ -1,0 +1,77 @@
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.iml
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# -------------------------
+# Node / JS (if used later)
+# -------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# AWS / Secrets (CRITICAL)
+# -------------------------
+.aws/
+*.pem
+*.key
+.env
+.env.*
+credentials
+config
+
+# -------------------------
+# ML / Data / Notebooks
+# -------------------------
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+data/
+datasets/
+*.h5
+*.pkl
+*.joblib
+*.onnx
+
+# -------------------------
+# Build / Output
+# -------------------------
+dist/
+build/
+out/
+
+# -------------------------
+# Logs
+# -------------------------
+logs/
+*.log
+
+# -------------------------
+# Large binaries (optional)
+# -------------------------
+*.zip
+*.tar
+*.tar.gz
+
+# -------------------------
+# Ignore temp images (keep final ones)
+# -------------------------
+*_temp.png
+*_draft.png
+
