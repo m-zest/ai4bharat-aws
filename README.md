@@ -1,8 +1,12 @@
-# BharatBazaar AI — Market Intelligence for Bharat
+# BharatBazaar AI - Market Intelligence for Bharat
 
 > **AI for Bharat Hackathon 2026** | Track: Retail, Commerce & Market Intelligence | Team: ParityAI
 
 12 million small retailers in India make pricing and stocking decisions based on gut feeling. They lose ₹50,000+ every year to bad pricing alone. **BharatBazaar AI changes that.**
+
+##  Development Repo
+
+> **[Main Repo](https://github.com/m-zest/bharat_bazaar_v2.4.8)**
 
 ## The Problem
 
